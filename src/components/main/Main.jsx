@@ -25,7 +25,7 @@ function Main() {
 
         {!showResult?<>
             <div className="greet">
-            <p><span>Hello, Pranith kumar.</span></p>
+            <p><span>Hello, Pranith.</span></p>
             <p>How can i help you today?</p>
         </div>
         <div className="cards">
